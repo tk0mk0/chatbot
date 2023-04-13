@@ -7,7 +7,7 @@ pinecone_environment = ''
 # import sys
 #
 # sys.setrecursionlimit(2500)
-# data = load_dataset("csv",data_files=r'C:\Users\toko\Desktop\Reviews_new.csv')
+# data = load_dataset(Reviews_new.csv) ----------- fix as per working environment
 # print('data loaded')
 ### tokenizer
 import tiktoken
