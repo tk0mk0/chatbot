@@ -114,7 +114,7 @@ from langchain.chains import RetrievalQA
 
 ### LLM and Agents
 llm = OpenAI(
-    openai_api_key='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',
+    openai_api_key=open_api_key,
     model_name='text-davinci-003',
     temperature=0.0,
     max_tokens=512,
